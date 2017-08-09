@@ -1,19 +1,13 @@
-## Introduction
+## What you will make
+In this resource you're going to make a Spot the Difference game with a big surprise. While the player is busily searching for all the differences in an image, all of a sudden a scary image will appear, along with a blood-curdling scream!
 
-Add project description here. What will learners be making?
+## What you will learn
+By creating the Scary Spot the Difference project you will learn:
 
-### What you will make
+- How to scale and display images in Scratch
+- How to play sounds in Scratch
 
-Add something here to showcase here, for example:
+This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+- [Combine programming constructs to solve a problem](https://www.raspberrypi.org/curriculum/programming/builder)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
