@@ -1,20 +1,25 @@
-## Setting up your Scratch project
+## Add a scream
 
-- [Open up a new project](http://jumpto.cc/scratch-new) in Scratch.
+To finish off, as the zombie image appears, the zombie will scream.
 
-2. Delete the cat sprite by right-clicking on it, and then clicking Delete.
+--- task ---
+Add a `play sound until done`{:class="blocksound"} block after the zombie image appears, and set it to the *scream* sound.
 
-	![Delete Scratch cat](images/delete-cat.png)
+--- hints --- --- hint ---
+You can find the `play sound until done`{:class="blocksound"} block in the **Sounds** menu.
+--- /hint --- --- hint ---
+Here is the block you will need to add:
 
-3. Now click on the Backdrops tab, and then click on the folder icon to upload a backdrop from file.
+![hint_5](images/hint_5.png)
+--- /hint --- --- hint ---
+Here is the completed program
 
-	![Backdrops](images/backdrops.png)
+![hint_6](images/hint_6.png)
+--- /hint --- --- /hints ---
+--- /task ---
 
-4. Select your scary picture and open it.
+--- task ---
+Test your program by clicking on the `green flag`{:class="blockevents"}. When you click on the stage, after a random time, the zombie should appear and a scream sound play.
+--- /task ---
 
-5. If your scary picture doesn't fill up the whole stage, use the select tool to draw a box around it and then use the handles on the box to make it larger.
-
-	![Backdrop should fit screen](images/fit-screen.png)
-
-6. Repeat these steps to add your Spot the Difference picture as a backdrop as well.
-
+Prank your friends by asking them to play your spot the difference game. Tell them they have to click on all the differences they find in the image, and then watch them jump in fear when the zombie appears.
