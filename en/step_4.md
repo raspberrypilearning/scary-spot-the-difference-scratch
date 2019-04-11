@@ -19,6 +19,6 @@ This is what your completed program should look like.
 --- /task ---
 
 --- task ---
-Test your code by clicking on the `green flag`{:class="blockeventse"}. When you click on the stage, the zombie should appear after a random ammount of time, and then switch back to the spot the difference image.
+Test your code by clicking on the `green flag`{:class="blockevents"}. When you click on the stage, the zombie should appear after a random ammount of time, and then switch back to the spot the difference image.
 --- /task ---
 
