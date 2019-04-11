@@ -3,10 +3,10 @@
 --- task ---
 Open the Scratch starter project.
 
-**Online**: open the starter project at [rpf.io/scaryspoton](rpf.io/scaryspoton){:target="_blank"}.
-**Ofline**: open the starter project from the zipped file at [rpf.io/p/en/scary-spot-the-difference-go](rpf.io/p/en/scary-spot-the-difference-go).
+**Online**: open the starter project at [rpf.io/scaryspoton](https://rpf.io/scaryspoton){:target="_blank"}.
+**Ofline**: open the starter project from the zipped file at [rpf.io/p/en/scary-spot-the-difference-go](https://rpf.io/p/en/scary-spot-the-difference-go).
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 In the starter project, you should see a spot the difference image of a witch.
 
