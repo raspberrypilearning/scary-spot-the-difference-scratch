@@ -1,20 +1,14 @@
-# Scary Spot the Difference
+# scary-spot-the-difference-scratch
 
-![](cover.png)
+![scary-spot-the-difference-scratch](en/images/banner.png)
 
-In this resource you can play a prank on your friends and family, by tricking them into thinking they're playing a Spot the Difference game, when in reality they're in for a big fright!
+Find the project online at [projects.raspberrypi.org/en/projects/scary-spot-the-difference-scratch](https://projects.raspberrypi.org/en/projects/scary-spot-the-difference-scratch)
 
-## The worksheets
+## Resources
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/scary-spot-the-difference-scratch/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/scary-spot-the-difference-scratch/tree/master/en/solutions).
 
-* [Make this project with Python](worksheet.md)
-* [Make this project with Scratch](worksheet2.md)
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
-
-Unless otherwise specified, everything in this repository is covered by the following licence:
-
-[![Creative Commons License](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-***Scary Spot the Difference*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-
-Based on a work at https://github.com/raspberrypilearning/scary-spot-the-difference
+ See [LICENSE.md](LICENSE.md)

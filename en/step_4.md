@@ -10,11 +10,27 @@ The `wait`{:class="blockcontrol"} block is in the **Control** menu. Inside this 
 --- /hint --- --- hint ---
 Here are the two blocks you will need to add to your program.
 
-![hint_3](images/hint_3.png)
+```blocks
+wait ( ) seconds
+
+pick random (0) to (10)
+```
+
 --- /hint --- --- hint ---
 This is what your completed program should look like.
 
-![hint_4](images/hint_4.png)
+```blocks
+when green flag clicked
+forever
+switch backdrop to (start v)
+if <mouse down?> then
+switch backdrop to (scare v)
++wait (pick random (0) to (10)) seconds
+end
+end
+
+```
+
 --- /hint --- --- /hints ---
 --- /task ---
 

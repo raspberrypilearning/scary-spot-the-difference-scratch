@@ -10,11 +10,24 @@ You can find the `play sound until done`{:class="blocksound"} block in the **Sou
 --- /hint --- --- hint ---
 Here is the block you will need to add:
 
-![hint_5](images/hint_5.png)
+```blocks
+play sound (scream v) until done
+```
+
 --- /hint --- --- hint ---
 Here is the completed program
 
-![hint_6](images/hint_6.png)
+```blocks
+when green flag clicked
+forever
+switch backdrop to (start v)
+if <mouse down?> then
+switch backdrop to (scare v)
+wait (pick random (0) to (10)) seconds
++play sound (scream v) until done
+end
+end
+```
 --- /hint --- --- /hints ---
 --- /task ---
 
