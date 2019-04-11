@@ -21,6 +21,4 @@ This is what your completed program should look like.
 --- task ---
 Test your code by clicking on the `green flag`{:class="blockeventse"}. When you click on the stage, the zombie should appear after a random ammount of time, and then switch back to the spot the difference image.
 --- /task ---
---- task ---
-To finish off, as the zombie image appears, the zombie will scream. Add a `play sound until done`{:class="blocksound"} block after the zombie image appears.
---- /task ---
+
