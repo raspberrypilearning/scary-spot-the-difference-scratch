@@ -1,12 +1,12 @@
-## Random pauses
+## Add random pauses
 
-Your program is nearly finished. In this step you will make the program pause for a random number of seconds, before the zombie appears.
+Your program is nearly finished. In this step, you will make the program pause for a random number of seconds before the zombie appears.
 
 --- task ---
-Use a `pick random`{:class="blockoperators"} block and a `wait`{:class="blockcontrol"} block to have your program pause for a few seconds before the image of the zombie appears.
+Use a `pick random`{:class="blockoperators"} block and a `wait`{:class="blockcontrol"} block to make your program pause for a few seconds before the image of the zombie appears.
 
 --- hints --- --- hint ---
-The `wait`{:class="blockcontrol"} block is in the **Control** menu. Inside this you can place a `pick random`{:class="blockoperators"} block from the **Operators** menu.
+The `wait`{:class="blockcontrol"} block is in the **Control** menu. Inside the `wait`{:class="blockcontrol"} block, place a `pick random`{:class="blockoperators"} block from the **Operators** menu.
 --- /hint --- --- hint ---
 Here are the two blocks you will need to add to your program.
 
@@ -35,6 +35,6 @@ end
 --- /task ---
 
 --- task ---
-Test your code by clicking on the `green flag`{:class="blockevents"}. When you click on the stage, the zombie should appear after a random ammount of time, and then switch back to the spot the difference image.
+Click on the `green flag`{:class="blockevents"} to test your code. When you click on the stage, the zombie should appear after a random amount of time, and then the backdrop should switch back to the spot the difference image.
 --- /task ---
 
