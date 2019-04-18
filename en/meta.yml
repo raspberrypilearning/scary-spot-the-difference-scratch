@@ -1,4 +1,4 @@
-title: Scary Spot the Difference
+title: Scary 'spot the difference'
 hero_image: images/banner.png
 description: Make a scary spot the difference game Scratch
 original_url: https://raspberrypi.org/learning/scary-spot-the-difference
@@ -17,8 +17,8 @@ version: 4.0
 last_tested: 2019-04-11
 steps: 
 - title: Introduction
-- title: Getting started
-- title: Detecting mouse clicks
-- title: Random pauses
+- title: Get started
+- title: Detect mouse clicks
+- title: Add a random pause
 - title: Add a scream
 - title: What next?
