@@ -35,6 +35,6 @@ end
 --- /task ---
 
 --- task ---
-Click on the `green flag`{:class="blockevents"} to test your code. When you click on the stage, the zombie should appear after a random amount of time, and then the backdrop should switch back to the spot the difference image.
+Click on the `green flag`{:class="blockevents"} to test your code. When you click on the Stage, the zombie should appear after a random amount of time, and then the backdrop should switch back to the spot the difference image.
 --- /task ---
 
