@@ -15,7 +15,7 @@ In the starter project, you should see a spot the difference image of a witch.
 --- /task ---
 
 --- task ---
-Click on the **Backdrops** tab, and you should see another image there.
+Click on the **Backdrops** tab, and you should see another image.
 
 ![backdrops](images/backdrops_tab.png)
 
