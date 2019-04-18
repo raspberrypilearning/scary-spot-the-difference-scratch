@@ -1,4 +1,4 @@
-## Add random pauses
+## Add a random pause
 
 Your program is nearly finished. In this step, you will make the program pause for a random number of seconds before the zombie appears.
 
