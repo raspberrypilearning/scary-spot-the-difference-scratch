@@ -19,7 +19,7 @@ Click on the **Backdrops** tab, and you should see another image.
 
 ![backdrops](images/backdrops_tab.png)
 
-Click on the thumbnail of the zombie, and the zombie image should appear on your stage.
+Click on the thumbnail of the zombie, and the zombie image should appear on your Stage.
 --- /task ---
 
 --- task ---
