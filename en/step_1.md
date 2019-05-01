@@ -1,14 +1,69 @@
-## What you will make
-In this resource you're going to make a Spot the Difference game with a big surprise. While the player is busily searching for all the differences in an image, all of a sudden a scary image will appear, along with a blood-curdling scream!
+## Introduction
 
-## What you will learn
-By creating the Scary Spot the Difference project you will learn:
+In this project, you will use Scratch to create a Spot the Difference game with a scary surprise, to prank your friends and family.
 
-- How to scale and display images in Scratch
-- How to play sounds in Scratch
+### What you will make
 
-This resource covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://www.raspberrypi.org/curriculum/):
+--- no-print ---
 
-- [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator)
+Click on the green flag, then click on any differences you see in the two images. Watch out for the surprise — a screaming zombie!
 
-- [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/)
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/301506768/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/skiing-final.png">
+</div>
+
+--- /no-print ---
+
+--- print-only ---
+
+![complete project](images/spot_the_diff.png)
+
+--- /print-only ---
+
+--- collapse ---
+
+---
+title: What you will need
+---
+
+### Hardware
+
++ A computer that runs Scratch
+
+### Software
+
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+### Downloads
+
+[Download the starter project and resources here](http://rpf.io/p/en/scary-spot-the-difference-go){:target="_blank"}.
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: What you will learn
+---
+
++ How to use a loop to detect events
++ How to use the random operator
++ How to play an imported sound
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Additional information for educators
+---
+
+--- no-print ---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing/print){:target="_blank"}.
+
+--- /no-print ---
+
+You can [find the solution for this project here](http://rpf.io/p/en/scary-spot-the-difference-scratch-get){:target="_blank"}.
+
+--- /collapse ---

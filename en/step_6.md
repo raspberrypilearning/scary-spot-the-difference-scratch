@@ -1,15 +1,5 @@
-## Setting the scene
+## What next?
 
-- You want your player to be fooled into thinking this is a real Spot the Difference game, so let's give them some instructions. Click on the blank backdrop (backdrop1) to select it, and click on the text tool.
-
-	![Backdrop should fit screen](images/backdrop-1.png)
-
-2. With the text tool selected, click on the blank backdrop and write your fake game instructions. You can choose what to say, and don't forget to also draw a button for the player to click to start the game.
-
-	![Fake instructions](images/fake-instructions.png)
-
-3. Name this backdrop "Instructions" so that you can find it easily when you write your program.
-
-	![Name your backdrop](images/name-instructions.png)
-
-
+* You could add a countdown timer so that your friend will concentrate **really hard** to spot the differences before the time runs out!
+* You could add a fake score. Perhaps you could then set up the game so that the zombie doesn't appear until your friend has clicked on at least three differences.
+* If you would like to try to program a similar prank in Python, have a look at [rpf.io/scare](https://rpf.io/scare){:target="_blank"}.

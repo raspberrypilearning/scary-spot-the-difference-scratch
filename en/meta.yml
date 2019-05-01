@@ -1,6 +1,6 @@
-title: Scary Spot the Difference
+title: Scary 'spot the difference'
 hero_image: images/banner.png
-description: Make a scary spot the difference game Scratch
+description: Make a scary 'spot the difference' game in Scratch
 original_url: https://raspberrypi.org/learning/scary-spot-the-difference
 theme: green
 duration: 2
@@ -13,15 +13,12 @@ technologies: scratch
 site_areas: projects
 hardware: ''
 software: scratch
-version: 3
-last_tested: 2017-01-01
+version: 4.0
+last_tested: 2019-04-11
 steps: 
 - title: Introduction
-- title: What you will need
-- title: Scary Spot the Difference - Scratch
-- title: Gathering the assets
-- title: Setting up your Scratch project
-- title: Setting the scene
-- title: Making the scary picture appear
-- title: Adding sound
+- title: Get started
+- title: Detect mouse clicks
+- title: Add a random pause
+- title: Add a scream
 - title: What next?

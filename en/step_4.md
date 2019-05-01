@@ -1,14 +1,40 @@
-## Gathering the assets
+## Add a random pause
 
-- You're going to need two images and a sound file for this activity. Firstly, you'll need a Spot the Difference image. This one is free to use, but you can make or find your own if you prefer.
+Your program is nearly finished. In this step, you will make the program pause for a random number of seconds before the zombie appears.
 
-	If you would like to use this image, right-click on it and save it onto your computer.
+--- task ---
+Use a `pick random`{:class="blockoperators"} block and a `wait`{:class="blockcontrol"} block to make your program pause for a few seconds before the image of the zombie appears.
 
-	![Spot the difference](images/spot_the_diff.png)
+--- hints --- --- hint ---
+The `wait`{:class="blockcontrol"} block is in the **Control** menu. Inside the `wait`{:class="blockcontrol"} block, place a `pick random`{:class="blockoperators"} block from the **Operators** menu.
+--- /hint --- --- hint ---
+Here are the two blocks you will need to add to your program.
 
-2. Next, you'll need the image you're going to swap with the game image to give the player a fright. This zombie face is cool, but you can make or find your own if you like. Just remember the age of the people you're trying to scare and choose something appropriate.
+```blocks3
+wait ( ) seconds
 
-	![Scary face](images/scary_face_43.png)
+pick random (0) to (10)
+```
 
-3. Lastly, you'll need a scary sound to really give them a shock. You could download [this one](http://soundbible.com/1627-Female-Scream-Horror.html). Alternatively, you could use a sound from the Scratch library, or perhaps if you have a microphone you could record your own scary sound. Muhahahaha!
+--- /hint --- --- hint ---
+This is what your completed program should look like.
+
+```blocks3
+when green flag clicked
+forever
+switch backdrop to (start v)
+if <mouse down?> then
++wait (pick random (0) to (10)) seconds
+switch backdrop to (scare v)
+end
+end
+
+```
+
+--- /hint --- --- /hints ---
+--- /task ---
+
+--- task ---
+Click on the `green flag`{:class="blockevents"} to test your code. When you click on the Stage, the zombie should appear after a random amount of time, and then the backdrop should switch back to the spot the difference image.
+--- /task ---
 
