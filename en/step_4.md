@@ -10,7 +10,7 @@ The `wait`{:class="blockcontrol"} block is in the **Control** menu. Inside the `
 --- /hint --- --- hint ---
 Here are the two blocks you will need to add to your program.
 
-```blocks
+```blocks3
 wait ( ) seconds
 
 pick random (0) to (10)
@@ -19,13 +19,13 @@ pick random (0) to (10)
 --- /hint --- --- hint ---
 This is what your completed program should look like.
 
-```blocks
+```blocks3
 when green flag clicked
 forever
 switch backdrop to (start v)
 if <mouse down?> then
-switch backdrop to (scare v)
 +wait (pick random (0) to (10)) seconds
+switch backdrop to (scare v)
 end
 end
 

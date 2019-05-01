@@ -8,7 +8,7 @@ But they won't know that after their first click, a timer will start, and then t
 To detect mouse events, like a click, your program has to always be listening for the event. To set this up, you can use a `forever`{:class="blockcontrol"} loop.
 Add a `when flag clicked`{:class="blockevents"} block and a `forever`{:class="blockcontrol"} loop to the code for the Stage.
 
-```blocks
+```blocks3
 when green flag clicked
 forever
 end
@@ -18,7 +18,7 @@ end
 --- task ---
 Your code will change the backdrop, so make sure that the `start`{:class="blocklooks"} backdrop is displayed at the beginning of the game.
 
-```blocks
+```blocks3
 when green flag clicked
 forever
 +switch backdrop to (start v)
@@ -34,7 +34,7 @@ You can find the `if`{:class="blockcontrol"} block in the **Control** menu and t
 --- /hint --- --- hint ---
 Here are the blocks you will need to add to your program.
 
-```blocks
+```blocks3
 switch backdrop to (scare v)
 
 if < > then
@@ -46,7 +46,7 @@ mouse down?
 --- /hint --- --- hint ---
 Here is what your script should look like.
 
-```blocks
+```blocks3
 when green flag clicked
 forever
 switch backdrop to (start v)
