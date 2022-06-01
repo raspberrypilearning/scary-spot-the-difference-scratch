@@ -1,3 +1,4 @@
+---
 title: Scary 'spot the difference'
 hero_image: images/banner.png
 description: Make a scary 'spot the difference' game in Scratch
@@ -15,10 +16,14 @@ hardware: ''
 software: scratch
 version: 4.0
 last_tested: 2019-04-11
-steps: 
+steps:
 - title: Introduction
 - title: Get started
 - title: Detect mouse clicks
+  completion:
+  - engaged
 - title: Add a random pause
 - title: Add a scream
+  completion:
+  - internal
 - title: What next?
