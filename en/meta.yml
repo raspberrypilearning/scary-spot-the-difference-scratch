@@ -18,10 +18,12 @@ version: 4.0
 last_tested: 2019-04-11
 steps:
 - title: Introduction
-  completion: engaged
 - title: Get started
 - title: Detect mouse clicks
+  completion:
+  - engaged
 - title: Add a random pause
-  completion: internal
 - title: Add a scream
+  completion:
+  - internal
 - title: What next?
