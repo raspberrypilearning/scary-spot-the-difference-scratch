@@ -5,16 +5,8 @@ In this step, you will make the zombie scream when the image appears.
 --- task ---
 Add a `play sound until done`{:class="blocksound"} block after the zombie image appears, and set it to the 'scream' sound.
 
---- hints --- --- hint ---
-You can find the `play sound until done`{:class="blocksound"} block in the **Sounds** menu.
---- /hint --- --- hint ---
-Here is the block you will need to add.
-
-```blocks3
-play sound (scream v) until done
-```
-
---- /hint --- --- hint ---
+--- hints ---
+--- hint ---
 Here is the completed program.
 
 ```blocks3
@@ -28,7 +20,9 @@ switch backdrop to (scare v)
 end
 end
 ```
---- /hint --- --- /hints ---
+--- /hint ---
+--- /hints ---
+
 --- /task ---
 
 --- task ---

@@ -29,21 +29,8 @@ end
 --- task ---
 Now, you need to use an `if`{:class="blockcontrol"} block to detect if `mouse down?`{:class="blocksensing"}. If it is, then you can `switch backdrop to scare`{:class="blocklooks"}.
 
---- hints --- --- hint ---
-You can find the `if`{:class="blockcontrol"} block in the **Control** menu and the `mouse down?`{:class="blocksensing"} block in the **Looks** menu.
---- /hint --- --- hint ---
-Here are the blocks you will need to add to your program.
-
-```blocks3
-switch backdrop to (scare v)
-
-if < > then
-end
-
-mouse down?
-```
-
---- /hint --- --- hint ---
+--- hints ---
+--- hint ---
 Here is what your script should look like.
 
 ```blocks3
@@ -57,7 +44,9 @@ end
 
 ```
 
---- /hint --- --- /hints ---
+--- /hint ---
+--- /hints ---
+
 --- /task ---
 
 --- task ---
