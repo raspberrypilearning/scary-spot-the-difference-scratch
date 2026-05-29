@@ -5,18 +5,8 @@ Your program is nearly finished. In this step, you will make the program pause f
 --- task ---
 Use a `pick random`{:class="blockoperators"} block and a `wait`{:class="blockcontrol"} block to make your program pause for a few seconds before the image of the zombie appears.
 
---- hints --- --- hint ---
-The `wait`{:class="blockcontrol"} block is in the **Control** menu. Inside the `wait`{:class="blockcontrol"} block, place a `pick random`{:class="blockoperators"} block from the **Operators** menu.
---- /hint --- --- hint ---
-Here are the two blocks you will need to add to your program.
-
-```blocks3
-wait ( ) seconds
-
-pick random (0) to (10)
-```
-
---- /hint --- --- hint ---
+--- hints ---
+--- hint ---
 This is what your completed program should look like.
 
 ```blocks3
@@ -31,7 +21,9 @@ end
 
 ```
 
---- /hint --- --- /hints ---
+--- /hint ---
+--- /hints ---
+
 --- /task ---
 
 --- task ---
